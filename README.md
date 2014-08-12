@@ -1,4 +1,4 @@
-SFML-2.1-Tutorial-13---Set-Sprite-Texture-Rect-Size
+SFML 2.1 Tutorial 13 - Set Sprite Texture Rect Size
 ===================================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/daMuBqYcwEM
